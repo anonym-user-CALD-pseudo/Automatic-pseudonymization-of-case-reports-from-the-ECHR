@@ -4,7 +4,7 @@ As it is mentioned in the paper, the two corpora differ on the annotation proced
 
 The files ES-projected-sents-number.tsv and ES-manual-sents-number.tsv have the exact same content as the two aforementioned files, but here the sentences are numbered in order to facilitate the assessment of the mBERT model.
 
-In addition to that, this repository contains four Jupyter Notebooks. These notebooks display the experiments that were carried out for assessing Flair and mBERT on a NER task employing the newly-built corpora.
+In addition to that, this repository contains four Jupyter Notebooks. These notebooks display the experiments that were carried out for assessing Flair and mBERT on a Named Entity Recognition (NER) task employing the newly-built corpora.
 
 References
 
