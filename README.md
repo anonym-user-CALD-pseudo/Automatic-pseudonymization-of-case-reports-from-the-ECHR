@@ -1,8 +1,8 @@
-This repository contains the two corpora of case reports from the European Court of Human Rights (ECHR) in Spanish that were built and annotated for pseudonymization as part of the work presented in the paper "Automatic pseudonymization of case reports from the ECHR in Spanish: evaluation of two different annotation approaches".
+This repository contains the corpus of case reports from the European Court of Human Rights (ECHR) in Spanish that was built and annotated as part of the work presented in the (unpublished) paper "Automatic detection and labelling of personal data in case reports from the ECHR in Spanish: evaluation of two different annotation approaches".
 
-As it is mentioned in the paper, the two corpora differ on the annotation procedure: one corpus was annotated by automatically projecting the annotations of the English corpus built by Pilán et al. (2022), and the other corpus was manually annotated by following a reinterpretation of their guidelines.
+As it is mentioned in the paper, the corpus was annotated by following two different annotation procedures: automatic projection of the annotations of the English corpus built by Pilán et al. (2022), and manual annotation with a reinterpretation of their guidelines.
 
-In addition to that, this repository contains two Jupyter Notebooks. These notebooks display the experiments that were carried out for assessing Flair on a Named Entity Recognition (NER) task employing the newly-built corpora.
+In addition to that, this repository contains two Jupyter Notebooks. These notebooks display the experiments that were carried out for assessing Flair on a Named Entity Recognition (NER) task employing the newly-built corpus.
 
 References
 
