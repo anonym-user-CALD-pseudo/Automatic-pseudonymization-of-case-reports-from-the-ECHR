@@ -1,4 +1,4 @@
-This repository contains the corpus of case reports from the European Court of Human Rights (ECHR) in Spanish that was built and annotated as part of the work presented in the (unpublished) paper "Automatic Detection and Labelling of Personal Data in Case Reports from the ECHR in Spanish: Evaluation of Two Different Annotation Approaches".
+This repository contains the corpus of 44 case reports from the European Court of Human Rights (ECHR) in Spanish that was built and annotated as part of the work presented in the (unpublished) paper "Automatic Detection and Labelling of Personal Data in Case Reports from the ECHR in Spanish: Evaluation of Two Different Annotation Approaches".
 
 As it is mentioned in the paper, the corpus was annotated by following two different annotation procedures: automatic projection of the annotations of the English corpus built by Pilán et al. (2022), and manual annotation with a reinterpretation of their guidelines.
 
