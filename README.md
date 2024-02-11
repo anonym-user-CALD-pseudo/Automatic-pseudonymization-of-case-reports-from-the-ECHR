@@ -6,7 +6,7 @@ In addition to that, this repository contains two Jupyter Notebooks. These noteb
 
 References
 
-Akbik, A., Blythe, D., and Vollgraf, R. (2018). Contextual String Embeddings for Sequence Labeling. In Proceedings of the 27th International Conference on Computational Linguistics, 1638–1649.
+Akbik, A., Blythe, D., and Vollgraf, R. (2018). Contextual String Embeddings for Sequence Labeling. In Proceedings of the 27th International Conference on Computational Linguistics, 1638–1649. Retrieved from: [https://aclanthology.org/C18-1139.pdf](https://aclanthology.org/C18-1139.pdf).
 
 Arranz, V., Bendahman, C., Edelman, E., Rigault, M., and Choukri, K. (2020). Annotation Guidelines for Named Entities in MAPA. Retrieved from: [http://www.elra.info/media/filer_public/2022/05/10/mapa_annotation-guidelines-v6.pdf](http://www.elra.info/media/filer_public/2022/05/10/mapa_annotation-guidelines-v6.pdf).
 
